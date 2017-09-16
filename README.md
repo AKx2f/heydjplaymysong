@@ -11,11 +11,13 @@ HDJPMS’s goal is to do the same outcome task as other music voting system on t
 * Ability to create a playlist with favorite songs.
 * Ability to search a song and request it to be played.
 * Ability to vote up or down on an already requested song.
+
 However some of the current systems require the following before voting:
 * A setup fee.
 * Personal information such as name, address.
 * Ownership of the songs which can be a legal issue.
 * Direct connection to the music system being used to play the song which is a potential threat.
+
 The risk assessment here is that with guest connected to the music systems with users which can be a potential cause the following depending on the value of the playlist to the DJ/host:
 * Negligible.
 * Slight loss of competitive advantage.
@@ -23,6 +25,7 @@ The risk assessment here is that with guest connected to the music systems with 
 * Significant financial loss.
 * Significant business profit.
 * Serious loss of life.
+
 HDJPMS tackles the following ideal:
 * Free to use.
 * Complete anonymous voting system.
