@@ -1,7 +1,12 @@
 # heydjplaymysong
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-# This app is not secured.
+# This app is not secured, use at your own risk.
+
+# Requirements
+* LAMP stack
+* PHP 5.4
+* I'm not sure which Linux, Apache or MySQL version I was using but it was around second half of 2013.
 
 # Abstract
 Hey DJ Play My Song (HDJPMS) is a music voting system web application. The intended audience of this product is for working professional Disc Jockeys (DJs) however it can be used by friends and family or even someone who plans to hire a DJ. It is a completely separate system from the actual device that is used to use to play the song.
