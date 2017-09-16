@@ -30,6 +30,7 @@ HDJPMS tackles the following ideal:
 * HDJPMS is an entity of its own, doesn’t connect directly to music system.
 * This potential works well with legacy systems or closed systems.
 * Peace of mind from malicious software.
+
 With the user creating their own playlist, whether they are a DJ or hiring one for an event, this application can be used as a music database which can later on be used during the event for guest to vote on.
  7
 Potential directives would be to partner with a paid music record pool and be offered as an incentive for being part of that record pool.
