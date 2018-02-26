@@ -1,7 +1,6 @@
+# This app project has some vulnerabilities.
 # heydjplaymysong
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-# This app is not secured, use at your own risk.
 
 # Requirements
 * LAMP stack
